@@ -1,0 +1,26 @@
+{
+  "name": "binarysearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/library.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests\tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TUgonna/binarySearch.git"
+  },
+  "author": "Ugonna Thelma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TUgonna/binarySearch/issues"
+  },
+  "homepage": "https://github.com/TUgonna/binarySearch#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
